@@ -16,9 +16,12 @@ Bevat een simpel filesysteem zo te zien, hier is een simpele parser en extractor
 https://github.com/Rakky1711/AHsoundbox
 
 ### Android App
-[http://](https://github.com/marcelrv/dierenplaatjes)
+https://github.com/marcelrv/dierenplaatjes
 
 ### Overzicht plaatjes
+https://static.ah.nl/binaries/ah/content/assets/ah-nl/core/campagnes/2024/dierenkaarten/dierenkaartjes-2024.pdf
+
+[dierenkaartjes-2024.pdf](files/dierenkaartjes-2024.pdf)
 
 ### Geluiden
-
+[mp3 extracted geluiden](files/ah-dierkaartjes.tar.gz)
